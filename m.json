@@ -1,13 +1,13 @@
 {
 "sites": [
 {"key": "csp_77","name": "七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_xpath___在线之家","name":"在线之家(XP)","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YUM-C/catvodjson@1.1/1/xp/zxzj.json"},
-{"key":"csp_xpath_lezhutv","name":"乐猪TV(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://cdn.jsdelivr.net/gh/YUM-C/catvodjson@1.1/1/xp/lezhutv.json"},
-{"key":"csp_xpath_lib","name":"LIBVIO(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YUM-C/catvodjson@1.1/1/xp/lib.json"},
-{"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YUM-C/catvodjson@1.1/1/xp/dadagui.json"},
-{"key":"csp_xpath_jbb","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/YUM-C/catvodjson@1.1/1/xp/jubaibai.json"}],
+{"key":"csp_xpath___在线之家","name":"在线之家(XP)","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/zxzj.json"},
+{"key":"csp_xpath_lezhutv","name":"乐猪TV(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/lezhutv.json"},
+{"key":"csp_xpath_lib","name":"LIBVIO(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/lib.json"},
+{"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/dadagui.json"},
+{"key":"csp_xpath_jbb","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/jubaibai.json"}],
 
-"lives":[{"group":"redirect","channels":[{"name":"蓝鲸直播plus源华东节点","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9saXZlcy5qdGhuLmNuL2xpdmVzL2xpdmVfcGx1cy5qc29u"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"plus","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3R2Lmp0aG4uY24vbGl2ZXMvbGl2ZV9wbHVzLnR4dA=="]}]}],
 
 "parses": [
 {
@@ -141,7 +141,7 @@
 "bilibili"
 ],
 
-"spider": "https://wuji888.coding.net/p/mao/d/mao/git/raw/master/custom_spider.jar;md5;01a4ac9109a0602124cee4feddc1971e",
+"spider": "https://raw.fastgit.org/YUM-C/catvodjson/main/1/custom_spider_0330.jar;md5;01a4ac9109a0602124cee4feddc1971e",
 "ijk": [
 {
 "group": "软解码",
@@ -364,4 +364,3 @@
 "cms.qdwght.com"
 ]
 }
-
