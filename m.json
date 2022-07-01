@@ -7,7 +7,7 @@
 {"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/dadagui.json"},
 {"key":"csp_xpath_jbb","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/jubaibai.json"}],
 
-"lives":[{"group":"redirect","channels":[{"name":"plus","urls":["https://raw.fastgit.org/YUM-C/biubiu-s-JSON/main/bibilive.txt"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"plus","urls":["https://iptv-org.github.io/iptv/index.m3u"]}]}],
 
 "parses": [
 {
