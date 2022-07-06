@@ -364,6 +364,19 @@ ViuTV,http://50.7.218.42:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=1833
 黄龙望乡台,http://gcksc.v.kcdnvip.com/gc/hlwxt_1/index.m3u8
 黄龙洗身洞,http://gcalic.v.myalicdn.com/gc/hlxsd_1/index.m3u8
 
+熊猫,#genre#
+直播熊猫1,http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
+直播熊猫2,http://gcalic.v.myalicdn.com/gc/xiongmao11_1/index.m3u8
+直播熊猫3,http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
+直播熊猫4,http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
+直播熊猫6,http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
+直播熊猫7,http://gcalic.v.myalicdn.com/gc/xiongmao03_1/index.m3u8
+直播熊猫8,http://gcalic.v.myalicdn.com/gc/xiongmao06_1/index.m3u8
+直播熊猫9,http://gcalic.v.myalicdn.com/gc/xiongmao09_1/index.m3u8
+直播熊猫10,http://gcalic.v.myalicdn.com/gc/xiongmao10_1/index.m3u8
+直播熊猫11,http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
+直播熊猫12,http://gcalic.v.myalicdn.com/gc/xiongmao24_1/index.m3u8
+
 北京,#genre#
 北京文艺HD[1920*1080][1920*1080],http://221.179.136.134:443/PLTV/88888888/224/3221226440/1.m3u8
 北京冬奥纪实HD[1920*1080][1920*1080],http://111.20.33.93/PLTV/88888893/224/3221226232/index.m3u8
