@@ -444,12 +444,12 @@ ViuTV,http://50.7.218.42:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=1833
 直播熊猫5,https://gcbsc.v.live.baishancdnx.cn/gc/xiongmao03_1/index.m3u8?contentid=2820180516001&checkedby:iptvcat.com
 直播熊猫5,https://gcbsc.v.live.baishancdnx.cn/gc/xiongmao03_1/index.m3u8?contentid=2820180516001
 直播熊猫5,http://gcalic.v.myalicdn.com/gc/xiongmao03_1/index.m3u8
-直播熊猫5,http://gcalic.v.myalicdn.com/gc/xiongmao06_1/index.m3u8
-直播熊猫5,http://gcalic.v.myalicdn.com/gc/xiongmao09_1/index.m3u8
-直播熊猫5,http://gcalic.v.myalicdn.com/gc/xiongmao10_1/index.m3u8
-直播熊猫6,http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
-直播熊猫11,http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
-直播熊猫12,http://gcalic.v.myalicdn.com/gc/xiongmao24_1/index.m3u8
+直播熊猫6,http://gcalic.v.myalicdn.com/gc/xiongmao06_1/index.m3u8
+直播熊猫7,http://gcalic.v.myalicdn.com/gc/xiongmao09_1/index.m3u8
+直播熊猫8,http://gcalic.v.myalicdn.com/gc/xiongmao10_1/index.m3u8
+直播熊猫9,http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
+直播熊猫10,http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
+直播熊猫11,http://gcalic.v.myalicdn.com/gc/xiongmao24_1/index.m3u8
 
 北京,#genre#
 北京文艺HD[1920*1080][1920*1080],http://221.179.136.134:443/PLTV/88888888/224/3221226440/1.m3u8
