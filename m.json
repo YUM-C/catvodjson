@@ -4,16 +4,16 @@
 {"key":"csp_xpath___在线之家","name":"在线之家(XP)","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/zxzj.json"},
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/lezhutv.json"},
 {"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/dadagui.json"},
-{"key":"csp_xpath_jbb","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/jubaibai.json"}
+{"key":"csp_xpath_jbb","name":"剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/jubaibai.json"},
 {"key":"csp_xpath_cerrd","name":"真不卡(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/zbk.json"},
-{"key":"csp_xpath_akmeiju","name":"阿珂美剧(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/akmeiju.json"}
+{"key":"csp_xpath_akmeiju","name":"阿珂美剧(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/akmeiju.json"},
 {"key":"csp_biubiu_LIBVIO","name":"LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/LIBVIOxb.json"},
 {"key":"csp_biubiu_影视工厂","name":"影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/ysgc.json"},
 {"key":"csp_biubiu_特狗影视","name":"特狗","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/tgys.json"},
 {"key": "555电影","name": "555电影(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/555dy.json"},
 {"key":"csp_biubiu_厂长资源-蓝光","name":"厂长蓝光(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/czlg.json"},
 {"key":"csp_biubiu_骚火电影","name":"骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/shdy.json"},
-"key":"csp_biubiu_大米星球","name":"大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/dmxq.json"},
+{"key":"csp_biubiu_大米星球","name":"大米星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/YUM-C/catvodjson/main/1/xp/dmxq.json"},
 {"key": "csp_77","name": "七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "厂长影视","name": "厂长","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "Kuaikan","name": "快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -24,7 +24,7 @@
 {"key":"mjxq_spider","name":"美剧(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "AliPS","name": "盘搜(只支持搜索)","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "27b06d5221a24199b15f2e573d847430"},
 {"key": "Gitcafe","name": "小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "27b06d5221a24199b15f2e573d847430"},
-{"key": "push_agent","name": "推送（阿里）","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "27b06d5221a24199b15f2e573d847430"},
+{"key": "push_agent","name": "推送（阿里）","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "27b06d5221a24199b15f2e573d847430"}],
 
 
 "lives":[{"group":"redirect","channels":[{"name":"plus","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvWVVNLUMvY2F0dm9kanNvbi9tYWluL21saXZlLnR4dA=="]}]}],
