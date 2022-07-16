@@ -182,7 +182,7 @@
 
 "flags": ["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 
-"spider": "https://pan.bilnn.cn/api/v3/file/sourcejump/pdw7JBcw/7qQZGym44RLX2bv4YLZbOVqNqQBBEl6UwSNnpzLEn78*",
+"spider": "https://raw.fastgit.org/YUM-C/catvodjson/main/1/custom_spider_0330.jar",
 
 "ijk": [
 {"group": "软解码","options": [{"category": 4,"name": "opensles","value": "0"},
